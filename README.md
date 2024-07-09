@@ -61,9 +61,8 @@ Implementation details of depth estimation models including hardware setup and t
 - **Future Recommendations**
 
 ## Resources
-- [Project Report](path_to_your_report.pdf)
-- [Project Presentation](path_to_your_presentation.pdf)
-- [Additional Resources](path_to_additional_resources)
+- [Project Report](https://drive.google.com/file/d/1fE1vIdHbPnajfPGn8zbtQIHkYX-tQVWI/view?usp=sharing)
+- [Additional Resources](https://drive.google.com/drive/folders/1254V82oXgIXIM4SDPieFhEiee9S3Nezr?usp=drive_link)
 
 ## Contributing
 Contributions are welcome! Please read the [contributing guidelines](path_to_contributing_guidelines) first.
