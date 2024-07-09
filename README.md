@@ -1,6 +1,6 @@
 # UAV Collision Avoidance and Depth Estimation Project
 
-![Project Banner](path_to_your_image.jpg)
+![Project Banner](Resouces/Overview_illustration.png)
 
 ## Project Overview
 
