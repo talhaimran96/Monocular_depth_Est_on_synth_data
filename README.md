@@ -71,11 +71,8 @@ Contributions are welcome! Please read the [contributing guidelines](path_to_con
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Acknowledgements
-- [Your University/Organization]
-- [Mentors and Contributors]
 
-![Sample Depth Map](path_to_sample_depth_map.jpg)
+![Sample Depth Map](Resources/output_samples.png)
 
 For more detailed information, refer to the [full project report](path_to_your_report.pdf).
 
